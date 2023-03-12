@@ -1,4 +1,4 @@
-# ViaRewind
+# ViaRewind Fixed
 Allow 1.8.x and 1.7.x on your newer server
 
 Releases / Dev Builds
